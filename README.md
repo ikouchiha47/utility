@@ -15,6 +15,8 @@ python 2.7.13 or more
 
 ### whatsmyip
 - get public ip from google (breakable)
+  - run steps: `python ./whatsmyip.py`
 
 ### kongsly
 - cli tool for kong with limited functionality
+  - run steps: `python ./kongsly.py --help`
