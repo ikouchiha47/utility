@@ -2,9 +2,8 @@
 utility scripts for work and other stuff
 
 ### installation
-- `git clone https://github.com/ikouchiha47/utility.git`
-- `cd utility`
-- `bash install.sh`
+- ```bash -c "git clone https://github.com/ikouchiha47/utility.git && \
+cd utility && bash install.sh"```
 
 ### manual installation
 - chmod +x filename
