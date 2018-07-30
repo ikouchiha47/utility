@@ -16,5 +16,5 @@ python 2.7.13 or more
 ### whatsmyip
 - get public ip from google (breakable)
 
-### kingsly
+### kongsly
 - cli tool for kong with limited functionality
